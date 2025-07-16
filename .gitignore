@@ -13,3 +13,4 @@ __pycache__/
 
 # Archivos específicos del IDE (VS Code)
 .vscode/
+*.code-workspace
